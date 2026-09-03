@@ -1,4 +1,4 @@
-import runpod
+import runpod  # cache-bust: no functional change (2026-09-03)
 
 
 def handler(job):
