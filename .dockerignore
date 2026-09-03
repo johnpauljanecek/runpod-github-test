@@ -1,0 +1,4 @@
+# Repo-root .dockerignore. If RunPod builds with repo root as context, this
+# applies; if it uses the Dockerfile's directory as context, this is ignored.
+.git
+*.md
